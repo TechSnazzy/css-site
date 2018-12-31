@@ -4,7 +4,7 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 
 ## Links to Stuff
 
-## Links
+## General FEND Links
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [The Adventures of Sherlock Holmes by Arthur Conan Doyle](http://www.gutenberg.org/ebooks/1661)

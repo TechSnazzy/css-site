@@ -24,7 +24,7 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [Internet Explorer is EVIL!](http://toastytech.com/evil/)
 - [Sean Halpin](http://seanhalpin.io/)
-- [Color Hunt](https://colorhunt.co/palette/94114)
+- [Color Hunt](https://colorhunt.co/palette/136330)
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
 

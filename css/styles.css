@@ -7,3 +7,15 @@ h1 {
 div {
   background-color: #ebfffb;
 }
+.this-box {
+  background-color: #13abc4;
+  height: 300px;
+  width: 300px;
+  border: solid 50px black;
+  margin: auto;
+}
+.this-box-header {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+}

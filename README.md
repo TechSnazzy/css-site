@@ -52,6 +52,7 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 ## Fonts
 
 - [CSS WebSafe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+- [CSS Font Stack](https://www.cssfontstack.com/)
 
 ## JavaScript
 

@@ -2,9 +2,11 @@
 
 I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp)) for Web Development. The goal of this page is to become familiar with HTML concepts. I am also using this page to capture links that are mentioned as the course goes along.
 
-## Links to Stuff
+---
 
-## General FEND Links
+# ALL KINDS OF LINKS
+
+## General FEND
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [The Adventures of Sherlock Holmes by Arthur Conan Doyle](http://www.gutenberg.org/ebooks/1661)
@@ -28,16 +30,16 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
 
-## Advanced Links
+## Advanced
 
 - [Getting Started with Material Design for Bootstrap](https://mdbootstrap.com/docs/react/getting-started/download/)
 - [Arrow Functions in JavaScript](https://tylermcginnis.com/arrow-functions/)
 
-## Userful Things Links
+## Userful Things
 
 - [Random User Generator](https://randomuser.me/)
 
-## CSS Links
+## CSS
 
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
@@ -47,7 +49,11 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [How to Center in CSS](http://howtocenterincss.com/)
 - [Basic CSS Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
 
-## JavaScript Links
+## Fonts
+
+- [CSS WebSafe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+
+## JavaScript
 
 - [2018 - State of JS](https://2018.stateofjs.com/)
 - [Storybook JS](https://storybook.js.org/)

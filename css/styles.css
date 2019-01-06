@@ -2,8 +2,11 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  font-size: 200%;
 }
+/* Note: 100% = 16px */
 h1 {
+  font-size: 5.625rem; /* 5.625rem * 16px = 90px */
   margin-top: 0;
   font-family: 'Sacramento', cursive;
 }

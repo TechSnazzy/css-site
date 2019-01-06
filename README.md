@@ -54,6 +54,7 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [Species in Pieces](http://www.species-in-pieces.com/)
 - [How to Center in CSS](http://howtocenterincss.com/)
 - [Basic CSS Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
+- [CSS3 Button Generator](https://www.designrush.com/resources/css3buttongenerator)
 
 ## JavaScript
 

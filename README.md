@@ -10,7 +10,6 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 - [The Adventures of Sherlock Holmes by Arthur Conan Doyle](http://www.gutenberg.org/ebooks/1661)
-- [CodePen](https://codepen.io)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [w3schools](https://www.w3schools.com/)
 - [DevDocs](https://devdocs.io/)
@@ -25,10 +24,17 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [TRANSLATING CLIENT-SPEAK: AN INFOGRAPHIC](http://platowebdesign.com/articles/translating-client-speak-infographic/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [Internet Explorer is EVIL!](http://toastytech.com/evil/)
-- [Sean Halpin](http://seanhalpin.io/)
 - [Color Hunt](https://colorhunt.co/palette/136330)
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
+
+## Code Editing
+
+- [CodePen](https://codepen.io)
+
+## Sample Sites
+
+- [Sean Halpin](http://seanhalpin.io/)
 
 ## Advanced
 
@@ -49,13 +55,22 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [How to Center in CSS](http://howtocenterincss.com/)
 - [Basic CSS Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
 
-## Fonts
-
-- [CSS WebSafe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
-- [CSS Font Stack](https://www.cssfontstack.com/)
-- [Google Fonts](https://fonts.google.com/)
-
 ## JavaScript
 
 - [2018 - State of JS](https://2018.stateofjs.com/)
 - [Storybook JS](https://storybook.js.org/)
+
+---
+
+## Fonts & Text
+
+- [CSS WebSafe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+- [CSS Font Stack](https://www.cssfontstack.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Lorem Ipsum Generator](https://loremipsum.io/)
+- [Lorem Ipsum Generator](http://lorem-ipsum.perbang.dk/)
+
+## Stock Images
+
+- [FlatIcon](https://www.flaticon.com/)
+- [Giphy](https://giphy.com/)

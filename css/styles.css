@@ -5,15 +5,20 @@ body {
 }
 /* Note: 100% = 16px */
 h1 {
+  color: #66bfbf;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem; /* 5.625rem * 16px = 90px */
   margin: 50px auto 0 auto;
 }
 h2 {
+  color: #66bfbf;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem; /* 2.5rem * 16px = 40px (do 40/16 to get the rem) */
+  line-height: 2;
+  font-weight: normal;
 }
 h3 {
+  color: #11999e;
   font-family: 'Montserrat', sans-serif;
 }
 .top-container {

@@ -28,9 +28,10 @@ I am following a Udemy course ([The Complete 2019 Web Development Bootcamp](http
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
 
-## Code Editing
+## Code Editing Playgrounds
 
 - [CodePen](https://codepen.io)
+- [CodePlay](https://www.codeply.com/)
 
 ## Sample Sites
 

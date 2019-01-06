@@ -2,17 +2,16 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  font-size: 200%;
 }
 /* Note: 100% = 16px */
 h1 {
-  font-size: 5.625rem; /* 5.625rem * 16px = 90px */
   margin-top: 0;
   font-family: 'Sacramento', cursive;
+  font-size: 5.625rem; /* 5.625rem * 16px = 90px */
 }
 h2 {
-  font-size: 2.5rem; /* 2.5rem * 16px = 40px (do 40/16 to get the rem) */
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem; /* 2.5rem * 16px = 40px (do 40/16 to get the rem) */
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -22,10 +21,10 @@ h3 {
   position: relative;
   padding-top: 100px;
 }
-.middle-container {
+/* .middle-container {
 }
 .bottom-container {
-}
+} */
 .pro {
   text-decoration: underline;
 }

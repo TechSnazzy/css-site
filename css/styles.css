@@ -51,7 +51,11 @@ h3 {
 }
 .dev-image {
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 .it-image {
   width: 25%;
+  float: right;
+  margin-left: 30px;
 }

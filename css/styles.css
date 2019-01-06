@@ -11,6 +11,7 @@ h1 {
   font-family: 'Sacramento', cursive;
 }
 h2 {
+  font-size: 2.5rem; /* 2.5rem * 16px = 40px (do 40/16 to get the rem) */
   font-family: 'Montserrat', sans-serif;
 }
 h3 {
